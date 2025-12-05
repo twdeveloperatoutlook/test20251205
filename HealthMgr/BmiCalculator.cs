@@ -16,7 +16,7 @@
         public float Calculate()
         {
             float result = 0;
-            //將float改成int試試看
+            //將float改成int試試看assdvdvsvsdvsdvsdvsd
             float height = (float)Height / 100;
             result = (float)Weight / (height * height);
 
